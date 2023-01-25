@@ -1,0 +1,136 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "erros": {
+    "detail": null,
+    "fields": []
+  },
+  "data": {
+    "user": {
+      "firstName": "Paullo"
+    },
+    "hamburgerMenus": [
+      {
+        "title": "Meu Perfil",
+        "link": "",
+        "subMenus": [
+          {
+            "title": "Meus dados",
+            "link": "",
+            "subMenus": []
+          },
+          {
+            "title": "Termos de uso",
+            "link": " https://achedoc.ache.com.br/termos-de-uso",
+            "subMenus": []
+          }
+        ]
+      },
+      {
+        "title": "Produtos",
+        "link": "",
+        "subMenus": []
+      },
+      {
+        "title": "Conteúdos",
+        "link": "https://achedoc.ache.com.br/",
+        "subMenus": []
+      }
+    ],
+    "quickMenu": [
+      {
+        "title": "Conteúdos",
+        "link": "",
+        "icon": ""
+      },
+      {
+        "title": "Amostras",
+        "link": "",
+        "icon": ""
+      },
+      {
+        "title": "Eventos",
+        "link": "",
+        "icon": ""
+      },
+      {
+        "title": "Notícias",
+        "link": "",
+        "icon": ""
+      },
+      {
+        "title": "Produtos",
+        "link": "",
+        "icon": ""
+      }
+    ],
+    "recentsContent": [
+      {
+        "title": "Rinite medicamentosa: conceito, diagnóstico e tratamento",
+        "subTitle": "Um artigo feito pelo Dr. Renato Roithmann",
+        "link": ""
+      },
+      {
+        "title": "Episódio 4 - Uso da Azitromicina na prevenção da exacerbação da Asma e DPOC",
+        "subTitle": "Um episódio do podcast feito pelo Dr. Frederico Fernandes",
+        "link": ""
+      },
+      {
+        "title": "Tecnologia SMR Esalerg D",
+        "subTitle": "Um vídeo que explica, sobre a SMR – Sistema de Liberação modulada",
+        "link": ""
+      }
+    ],
+    "eventsAvailable": [
+      {
+        "title": "Empreendedorismo Médico",
+        "subTitle": "O Aché está oferecendo um evento online gratuito para médicos residentes.",
+        "link": ""
+      }
+    ],
+    "more": [
+      {
+        "title": "Informações Médicas",
+        "subTitle": "Solicite informações referentes aos produtos Aché.",
+        "link": ""
+      },
+      {
+        "title": "Farmacovigilância Médicas",
+        "subTitle": "Ajude a tornar o medicamento mais seguro e eficaz, notificando a eventos adversos.",
+        "link": ""
+      }
+    ],
+    "ourProducts": [
+      {
+        "title": "Saúde Alimentar",
+        "subTitle": "Antes de tudo somos humanos. Cuidamos uns dos outros e levamos.",
+        "link": ""
+      },
+      {
+        "title": "Saúde Alimentar",
+        "subTitle": "Antes de tudo somos humanos. Cuidamos uns dos outros e levamos.",
+        "link": ""
+      }
+    ],
+    "footer": {
+      "socialMedia": [
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/cuidadospelavida"
+        },
+        {
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/company/ache-laboratorios/"
+        },
+        {
+          "name": "Youtube",
+          "link": "https://www.youtube.com/@achelab/videos"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/ache.doc/"
+        }
+      ]
+    }
+  }
+}
